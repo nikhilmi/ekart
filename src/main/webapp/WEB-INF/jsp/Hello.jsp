@@ -128,10 +128,10 @@ background-color
 	</div>
 	<footer>
 		<div class="pagination">
-			<a href="#">&laquo;</a> <a href="#" class="active">1</a> <a
-				href="./2?pid=pen">2</a> <a href="./3?pid=pen">3</a> <a
-				href="./4?pid=pen">4</a> <a href="./5?pid=pen">5</a> <a
-				href="./6?pid=pen">6</a> <a href="#">&raquo;</a> <br>
+			<a href="#">&laquo;</a> <a href="./1?category=pen" class="active">1</a> <a
+				href="./2?category=pen">2</a> <a href="./3?category=pen">3</a> <a
+				href="./4?category=pen">4</a> <a href="./5?pid=pen">5</a> <a
+				href="./6?category=pen">6</a> <a href="#">&raquo;</a> <br>
 			<p>
 				Developed by: Nikhil MI <a href="mailto:nikhilmi1994@gmail.com">nikhilmi1994@gmail.com</a>
 			</p>
